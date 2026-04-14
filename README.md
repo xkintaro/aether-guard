@@ -41,7 +41,8 @@
     `bash
     pip install -r requirements.txt
     `
-    <img src="md/20260312140807256.jpg" width="auto" style="border-radius: 8px;" />
+
+<img src="md/20260312140807256.jpg" width="auto" style="border-radius: 8px;" />
 
 ## 🛠 Usage
 
